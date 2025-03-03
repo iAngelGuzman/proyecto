@@ -1,3 +1,4 @@
 # Gestion de un Restaurante
 
-![imagen](https://github.com/user-attachments/assets/63bfe451-c629-4350-842f-009c4a2338ea)
+![imagen](https://github.com/user-attachments/assets/70c54d7c-6d4d-4036-80d0-4a411d326b23)
+
