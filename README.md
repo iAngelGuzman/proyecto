@@ -1,4 +1,5 @@
-# Gestion de una Pizzeria
+# Gestion de un Almanaque
 
-![imagen](https://github.com/user-attachments/assets/70c54d7c-6d4d-4036-80d0-4a411d326b23)
+![imagen](https://github.com/user-attachments/assets/711541f0-df43-4505-91c0-06d8f20788c6)
+
 
